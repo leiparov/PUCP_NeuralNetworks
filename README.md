@@ -1,5 +1,5 @@
 # Técnicas Avanzadas de Minería de Datos y Sistemas Inteligentes
-Notebooks y slides de las clases y proyecto de curso
+Notebooks y slides de las clases y proyecto de curso a.k.a Deep Learning
 
 ## Proyecto de Curso
 
@@ -12,4 +12,4 @@ http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
 
 Manuel Montoya Gamio - manuel.montoya@pucp.edu.pe
 
-Setiembre 2018
+Enero 2019
