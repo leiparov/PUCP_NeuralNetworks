@@ -1,4 +1,4 @@
-# Técnicas Avanzadas de Minería de Datos y Sistemas Inteligentes a.k.a Deep Learning
+# Técnicas Avanzadas de Minería de Datos y Sistemas Inteligentes a.k.a. Deep Learning
 Notebooks y slides de las clases y proyecto de curso 
 
 ## Proyecto de Curso
